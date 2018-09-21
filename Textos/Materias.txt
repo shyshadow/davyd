@@ -1,0 +1,30 @@
+Algoritomo
+4
+Biologia
+3
+Desenho
+1
+Educacao Fisica
+1
+Estudo Da Arte
+1
+Filosofia
+1
+Fisica
+3
+Geografica
+2
+Historia
+4
+Informatica
+3
+Introducao a Computacao
+4
+Lingua Portuguesa
+3
+Matematica
+4
+Quimica
+3
+Sociologia
+5
